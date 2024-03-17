@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Alike+Angular&display=swap')
+
+
+.card{
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin:20px 20px 20px 20px; 
+  width: 300px; /* Set fixed width for the card */
+  height: 700px; /* Set fixed height for the card */
+
+}
+    
+
+.Flagimg{
+    width: 250px;
+    height: auto ;
+
+}
+body {
+    background-color: #3CC47C;
+    
+
+}
+.cardcol{
+    width: auto; /* Set fixed width for the card */
+    height:auto; 
+    
+
+}
+.btn btn-primary{
+    justify-content: center;
+}
+.details{
+    font-family:Verdana;
+}
+.card-text{
+    font-family: "Alike Angular", serif;
+  font-weight: 400;
+  font-style: normal;
+    
+}
